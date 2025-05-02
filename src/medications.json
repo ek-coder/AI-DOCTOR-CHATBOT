@@ -1,0 +1,86 @@
+[
+  {
+    "condition": "fever",
+    "name": "Acetaminophen (Tylenol)",
+    "description": "Reduces fever and relieves minor aches and pains.",
+    "dosage": "Adults: 650mg every 4-6 hours. Max 3000mg/day.",
+    "side_effects": "Rarely causes side effects. Liver damage possible with overdose."
+  },
+  {
+    "condition": "fever",
+    "name": "Ibuprofen (Advil, Motrin)",
+    "description": "Reduces fever and relieves pain and inflammation.",
+    "dosage": "Adults: 200-400mg every 4-6 hours. Max 1200mg/day.",
+    "side_effects": "Stomach upset, heartburn, nausea. Increased risk of heart attack or stroke."
+  },
+  {
+    "condition": "cold",
+    "name": "Phenylephrine",
+    "description": "Decongestant that shrinks blood vessels in the nasal passages.",
+    "dosage": "Adults: 10mg every 4 hours. Max 60mg/day.",
+    "side_effects": "Nervousness, dizziness, sleeplessness."
+  },
+  {
+    "condition": "cold",
+    "name": "Guaifenesin (Mucinex)",
+    "description": "Expectorant that helps loosen phlegm and thin bronchial secretions.",
+    "dosage": "Adults: 600-1200mg every 12 hours. Max 2400mg/day.",
+    "side_effects": "Dizziness, headache, rash, nausea."
+  },
+  {
+    "condition": "cough",
+    "name": "Dextromethorphan (Robitussin DM)",
+    "description": "Cough suppressant that affects signals in the brain that trigger cough reflex.",
+    "dosage": "Adults: 10-20mg every 4 hours or 30mg every 6-8 hours. Max 120mg/day.",
+    "side_effects": "Drowsiness, dizziness, nausea."
+  },
+  {
+    "condition": "headache",
+    "name": "Aspirin",
+    "description": "Reduces pain, fever, and inflammation.",
+    "dosage": "Adults: 325-650mg every 4 hours. Max 4000mg/day.",
+    "side_effects": "Stomach upset, heartburn. Risk of Reye's syndrome in children."
+  },
+  {
+    "condition": "allergy",
+    "name": "Loratadine (Claritin)",
+    "description": "Antihistamine that treats allergy symptoms like sneezing, runny nose, watery eyes.",
+    "dosage": "Adults: 10mg once daily.",
+    "side_effects": "Headache, drowsiness, fatigue."
+  },
+  {
+    "condition": "allergy",
+    "name": "Cetirizine (Zyrtec)",
+    "description": "Antihistamine for allergy symptoms.",
+    "dosage": "Adults: 5-10mg once daily.",
+    "side_effects": "Drowsiness, dizziness, dry mouth."
+  },
+  {
+    "condition": "indigestion",
+    "name": "Calcium Carbonate (Tums)",
+    "description": "Antacid that relieves heartburn, acid indigestion, and upset stomach.",
+    "dosage": "Adults: 2-4 tablets as symptoms occur. Max 7500mg/day.",
+    "side_effects": "Constipation, gas."
+  },
+  {
+    "condition": "diarrhea",
+    "name": "Loperamide (Imodium)",
+    "description": "Slows down digestion to decrease the frequency of bowel movements.",
+    "dosage": "Adults: 4mg initially, then 2mg after each loose stool. Max 8mg/day.",
+    "side_effects": "Dizziness, constipation, abdominal pain."
+  },
+  {
+    "condition": "insomnia",
+    "name": "Melatonin",
+    "description": "Hormone supplement that helps regulate sleep-wake cycles.",
+    "dosage": "Adults: 0.5mg to 5mg taken 30-60 minutes before bedtime.",
+    "side_effects": "Drowsiness, dizziness, headache, nausea."
+  },
+  {
+    "condition": "insomnia",
+    "name": "Diphenhydramine (Benadryl)",
+    "description": "Antihistamine primarily used for allergies, but also causes drowsiness.",
+    "dosage": "Adults: 25-50mg at bedtime.",
+    "side_effects": "Significant drowsiness, dizziness, dry mouth, blurred vision."
+  }
+] 
