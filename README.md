@@ -50,6 +50,12 @@ Click “Create API Key” and copy the generated key.
 
 ---
 
+## 🖼️ Project Poster
+
+[📄 View Poster (PDF)](POSTER AI DOCTOR.pdf)
+
+---
+
 ## 🖼️ Screenshots
 
 ![Chatbot Demo](demo1.png)
