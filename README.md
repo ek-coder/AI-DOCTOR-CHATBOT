@@ -52,7 +52,7 @@ Click “Create API Key” and copy the generated key.
 
 ## 🖼️ Project Poster
 
-[📄 View Poster (PDF)](POSTER AI DOCTOR.pdf)
+[📄 View Poster (PDF)](POSTERAIDOCTOR.pdf)
 
 ---
 
