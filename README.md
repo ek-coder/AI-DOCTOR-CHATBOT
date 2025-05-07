@@ -52,8 +52,9 @@ Click “Create API Key” and copy the generated key.
 
 ## 🖼️ Screenshots
 
-*(Add images here)*
+![Chatbot Demo](demo1.png)
 
+![Screenshot](demo2.png)
 ---
 
 ## ✅ Results
